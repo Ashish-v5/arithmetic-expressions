@@ -18,7 +18,7 @@ the [`Variable`](src/main/java/com/epam/rd/autotasks/arithmeticexpressions/Varia
 Please, implement its methods:
 - `public Variable(String name, int value)` - a constructor of the `Variable` class.
   Sets name and value of the variable.
-- `public void setValue(int value)` - a method to change the value od the variable.
+- `public void setValue(int value)` - a method to change the value of the variable.
 - `public int evaluate()` - returns the value of the variable.
 - `public String toExpressionString()` - returns the name of the variable.
 
